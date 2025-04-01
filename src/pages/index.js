@@ -10,6 +10,9 @@ export default function Pruebas (){
             <div className="flex flex-col w-1/2 h-1/3 py-10 bg-black ">      
             <CuadradoAlquiler className="w-1/2"nom="informatica" ciu="la plata" localidad="gorina"/>
             </div>
+            <div className="flex flex-col w-1/2 h-1/3 py-10 bg-black ">      
+            <CuadradoAlquiler className="w-1/2"nom="informatica" ciu="la plata" localidad="gorina"/>
+            </div>
         </main>
     </>
 }
