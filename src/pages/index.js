@@ -23,5 +23,6 @@ export default function Pruebas (){
                     <CuadradoAlquiler nom="informatica" ciu="la plata" localidad="city bell" />
                 </div>
       </main>
+
     </>
 }
